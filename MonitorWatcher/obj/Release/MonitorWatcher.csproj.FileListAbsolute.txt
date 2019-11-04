@@ -1,0 +1,5 @@
+H:\Projects\MonitorWatcher\MonitorWatcher\bin\Release\MonitorWatcher.exe.config
+H:\Projects\MonitorWatcher\MonitorWatcher\bin\Release\MonitorWatcher.exe
+H:\Projects\MonitorWatcher\MonitorWatcher\bin\Release\MonitorWatcher.pdb
+H:\Projects\MonitorWatcher\MonitorWatcher\obj\Release\MonitorWatcher.exe
+H:\Projects\MonitorWatcher\MonitorWatcher\obj\Release\MonitorWatcher.pdb

@@ -1,0 +1,6 @@
+H:\Projects\MonitorWatcher\MonitorWatcher\bin\Debug\MonitorWatcher.exe.config
+H:\Projects\MonitorWatcher\MonitorWatcher\bin\Debug\MonitorWatcher.exe
+H:\Projects\MonitorWatcher\MonitorWatcher\bin\Debug\MonitorWatcher.pdb
+H:\Projects\MonitorWatcher\MonitorWatcher\obj\Debug\MonitorWatcher.exe
+H:\Projects\MonitorWatcher\MonitorWatcher\obj\Debug\MonitorWatcher.pdb
+H:\Projects\MonitorWatcher\MonitorWatcher\obj\Debug\MonitorWatcher.csprojResolveAssemblyReference.cache
